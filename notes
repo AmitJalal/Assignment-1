@@ -1,0 +1,54 @@
+Agenda: 13 June, 2021
+-----------------------------
+1. Assignment 1 -  Solving Approach 
+2. Git installation guide - explain Git and Github
+3. How to accept & submit the Assignment on Github through LMS
+4. Visual Studio installation guide - 1 
+--------------------------------------------------------------------
+1. Assignment 1:
+    1. Problem Statement -> Break that problem Statement into small parts -> Solve/Design each part one by one.
+    2. What files do we need?
+        -> .html
+        -> .css
+    3. Break -> 
+        1. Header Section
+        2. Main Section
+        3. Footer Section [optional]
+
+        1. Header Section - Parent - div - background colour
+            -> logo - child
+            -> login - child
+            -> Create an account - child
+        2. Main/ Body Section - div
+            -> Title
+            -> 3 boxes  - 1 left , 2 right
+            -> pagination
+    
+    property - display : inline
+            display : inline-block
+            display : block
+         
+Github submission -
+1. git installed
+2. github account - github.com
+
+git clone <link>
+git add .
+git status
+git commit -m "Assignment 1 submitted"
+git push origin master/main
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
